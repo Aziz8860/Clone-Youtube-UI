@@ -17,3 +17,6 @@ Assuming that you have Node 10 LTS or greater installed, you can use npm to inst
 <br>
 <br>
 `npm start`
+
+## Screenshot
+[https://github.com/Aziz8860/Clone-Youtube-UI/blob/master/screenshot.png]
